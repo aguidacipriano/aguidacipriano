@@ -1,6 +1,6 @@
-## Olá, seja bem-vindo(a)! 👋
+## Olá, Eu sou a Aguida Cipriano! 👋
 
-Oi, eu sou a Aguida! Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolvimento backend, inteligência artificial e criação de jogos. Estou sempre em busca de novos desafios e aprendizados! 🚀
+Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolvimento backend, inteligência artificial e criação de jogos. Estou sempre em busca de novos desafios e aprendizados! 🚀
 
 ### 📚 Atualmente estudando:
 
@@ -15,15 +15,32 @@ Oi, eu sou a Aguida! Sou uma estudante apaixonada por tecnologia, atualmente foc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌟 Sobre mim:
-
-💡 Estudante de **programação** apaixonada por tecnologia e soluções criativas.\
-💻 Aprimorando minhas habilidades em **backend e inteligência artificial**.\
-📈 Buscando **oportunidades para crescer profissionalmente** na área tech.
-
 ### 📫 Vamos conectar?
 
-🔗 [LinkedIn](https://www.linkedin.com/in/aguida-cipriano-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguida-cipriano-dev) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aguidacipriano)
+
+
+
 
 Sempre aberta a novas oportunidades e colaborações! Vamos crescer juntos? 😊
+
+<div align="center">
+  <h2>🛠 Estatísticas do GitHub</h2>
+
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aguidacipriano&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical" alt="Top Linguagens">
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguidacipriano&theme=radical" alt="GitHub Streak">
+</div>
+
+
+
+
+
+
 
