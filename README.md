@@ -43,7 +43,7 @@ Sempre aberta a novas oportunidades e colaborações! Vamos crescer juntos? 😊
   <h2>🛠 Estatísticas do GitHub</h2>
   
 <img src="https://github-readme-stats.vercel.app/api?username=aguidacipriano&show_icons=true&theme=radical&locale=pt-br" width="440" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical&locale=pt-br" width="360" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical&locale=pt-br" width="380" />
 
 
 
