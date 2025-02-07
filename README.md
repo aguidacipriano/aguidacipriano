@@ -31,11 +31,16 @@ Sempre aberta a novas oportunidades e colaborações! Vamos crescer juntos? 😊
 <div align="center">
   <h2>🛠 Estatísticas do GitHub</h2>
 
-  <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aguidacipriano&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
 
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical" alt="Top Linguagens">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aguidacipriano&show_icons=true&theme=radical&locale=pt-br) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical&locale=pt-br)
+
+
+  
+  
+
+
+  
+  
 
 
 
