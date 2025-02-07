@@ -37,9 +37,7 @@ Sempre aberta a novas oportunidades e colaborações! Vamos crescer juntos? 😊
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&theme=radical" alt="Top Linguagens">
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguidacipriano&theme=radical" alt="GitHub Streak">
-</div>
+
 
 
 
