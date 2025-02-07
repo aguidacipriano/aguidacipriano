@@ -1,4 +1,7 @@
-## Olá, Eu sou a Aguida Cipriano! 👋
+
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=24&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+Aguida+Cipriano!+👋;Bem-vindo(a)+ao+meu+GitHub!+🚀)
+
+
 
 Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolvimento backend, inteligência artificial e criação de jogos. Estou sempre em busca de novos desafios e aprendizados! 🚀
 
@@ -27,6 +30,14 @@ Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolviment
 
 
 Sempre aberta a novas oportunidades e colaborações! Vamos crescer juntos? 😊
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=aguidacipriano&color=blue&style=flat" alt="Contador de visitas">
+</div>
+
+
+
+
 
 <div align="center">
   <h2>🛠 Estatísticas do GitHub</h2>
