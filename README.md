@@ -3,7 +3,7 @@
 
 
 
-Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolvimento backend, inteligência artificial e criação de jogos. Estou sempre em busca de novos desafios e aprendizados! 🚀
+Sou uma estudante apaixonada por tecnologia, atualmente focada em desenvolvimento backend, inteligência artificial e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizados! 🚀
 
 ### 📚 Atualmente estudando:
 
