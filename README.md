@@ -15,6 +15,8 @@ Sou uma estudante apaixonada por tecnologia, atualmente focada em Back-End com J
 ## 🛠️ Tecnologias:
 `Java` | `Spring Boot` | `JavaScript` | `HTML5` | `CSS3` | `Git` | `GitHub`
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aguidacipriano&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 🌐 Me encontre por aí:
 - [LinkedIn](https://www.linkedin.com/in/aguidacipriano/)
 - [GitHub](https://github.com/aguidacipriano)
