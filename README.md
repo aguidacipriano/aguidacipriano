@@ -7,9 +7,9 @@
 
 Sou uma estudante apaixonada por tecnologia, atualmente focada em Back-End com Java e Spring Framework. Também estou explorando aplicações de Inteligência Artificial com Java. Busco minha primeira oportunidade na área e estou sempre aprendendo algo novo! 🚀
 
-## 📚 Atualmente estudando:
-- 🧠 **Formação em Inteligência Artificial e Java**
-- 🌱 **Especialização Back-End com Spring Framework**
+## 📚 Estudos em andamento:
+- 🧠 **Técnico em Desenvolvimento de Sistemas**
+- 🌱 **Back-End com Spring Framework (Java)**
 
 
 ## 🛠️ Tecnologias:
