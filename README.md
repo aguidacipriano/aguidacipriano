@@ -4,7 +4,7 @@
 
 
 
-# 👩‍💻 Desenvolvedora Back-End em formação | Técnica em Desenvolvimento de Sistemas
+# Desenvolvedora Back-End em formação | Técnica em Desenvolvimento de Sistemas
 
 Sou estudante apaixonada por tecnologia, atualmente focada em **Back-End com Java e Spring Framework**.  
 Como estudante de Desenvolvimento de Sistemas, estou explorando conceitos de Back-End e experimentando novas tecnologias em projetos de estudo.  
@@ -12,9 +12,9 @@ Como estudante de Desenvolvimento de Sistemas, estou explorando conceitos de Bac
 
 ## 📚 Formação e Estudos
 
-- 🧠 **Técnico em Desenvolvimento de Sistemas** (em andamento)  
-- 🌱 **Back-End com Java e Spring Framework**  
-- 🔍 Explorando **aplicações de Inteligência Artificial com Java**
+-  **Técnico em Desenvolvimento de Sistemas** (em andamento)  
+-  **Back-End com Java e Spring Framework**  
+-  Explorando **aplicações de Inteligência Artificial com Java**
 
 
 ## 🛠️ Tecnologias
